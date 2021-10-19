@@ -24,7 +24,7 @@ deactivate
 * ⌨️ (0:42:34) 9 - ~~Create Product Objects in the Python Shell~~
 * ⌨️ (0:46:18) 10 - ~~New Model Fields~~
 * ⌨️ (0:52:52) 11 - ~~Change a Model~~
-* ⌨️ (0:59:27) 12 - Default Homepage to Custom Homepage
+* ⌨️ (0:59:27) 12 - ~~Default Homepage to Custom Homepage~~
 * ⌨️ (1:04:48) 13 - URL Routing and Requests
 * ⌨️ (1:10:23) 14 - Django Templates
 * ⌨️ (1:16:50) 15 - Django Templating Engine Basics
