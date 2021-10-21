@@ -30,7 +30,7 @@ deactivate
 * ⌨️ (1:16:50) 15 - ~~Django Templating Engine Basics~~
 * ⌨️ (1:24:00) 16 - ~~Include Template Tag~~
 * ⌨️ (1:26:49) 17 - ~~Rendering Context in a Template~~
-* ⌨️ (1:33:21) 18 - For Loop in a Template
+* ⌨️ (1:33:21) 18 - ~~For Loop in a Template~~
 * ⌨️ (1:37:01) 19 - Using Conditions in a Template
 * ⌨️ (1:42:17) 20 - Template Tags and Filters
 * ⌨️ (1:48:59) 21 - Render Data from the Database with a Model
