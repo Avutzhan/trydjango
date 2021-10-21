@@ -6,8 +6,9 @@ from django.shortcuts import render
 def home_view(request, *args, **kwargs):  # python specific args
     print(args, kwargs)
     print(request.user)
-    return HttpResponse("<h1>hello world</h1>")
+    # return HttpResponse("<h1>hello world</h1>")
+    return render(request, "home.html", {})
 
 
 def contact_view(request, *args, **kwargs):  # python specific args
-    return HttpResponse("<h1>Contact world</h1>")
+    return render(request, "contact.html", {})
