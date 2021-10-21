@@ -25,11 +25,11 @@ deactivate
 * ⌨️ (0:46:18) 10 - ~~New Model Fields~~
 * ⌨️ (0:52:52) 11 - ~~Change a Model~~
 * ⌨️ (0:59:27) 12 - ~~Default Homepage to Custom Homepage~~
-* ⌨️ (1:04:48) 13 - URL Routing and Requests
-* ⌨️ (1:10:23) 14 - Django Templates
-* ⌨️ (1:16:50) 15 - Django Templating Engine Basics
-* ⌨️ (1:24:00) 16 - Include Template Tag
-* ⌨️ (1:26:49) 17 - Rendering Context in a Template
+* ⌨️ (1:04:48) 13 - ~~URL Routing and Requests~~
+* ⌨️ (1:10:23) 14 - ~~Django Templates~~
+* ⌨️ (1:16:50) 15 - ~~Django Templating Engine Basics~~
+* ⌨️ (1:24:00) 16 - ~~Include Template Tag~~
+* ⌨️ (1:26:49) 17 - ~~Rendering Context in a Template~~
 * ⌨️ (1:33:21) 18 - For Loop in a Template
 * ⌨️ (1:37:01) 19 - Using Conditions in a Template
 * ⌨️ (1:42:17) 20 - Template Tags and Filters
