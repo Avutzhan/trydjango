@@ -37,7 +37,7 @@ deactivate
 * ⌨️ (1:59:55) 22 - ~~How Django Templates Load with Apps~~
 * ⌨️ (2:06:50) 23 - ~~Django Model Forms~~
 * ⌨️ (2:14:16) 24 - ~~Raw HTML Form~~
-* ⌨️ (2:25:33) 25 - Pure Django Form
+* ⌨️ (2:25:33) 25 - ~~Pure Django Form~~
 * ⌨️ (2:35:30) 26 - Form Widgets
 * ⌨️ (2:41:29) 27 - Form Validation Methods
 * ⌨️ (2:48:59) 28 - Initial Values for Forms
