@@ -41,6 +41,7 @@ class ProductForm(forms.ModelForm):
             raise forms.ValidationError("This is not a valid email")
         return email
 
+
 class RawProductForm(forms.Form):
     title = forms.CharField(label='', widget=forms.TextInput(attrs={"placeholder": "you can do it"}))
     description = forms.CharField(
