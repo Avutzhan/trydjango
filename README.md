@@ -41,7 +41,7 @@ deactivate
 * ⌨️ (2:35:30) 26 - ~~Form Widgets~~
 * ⌨️ (2:41:29) 27 - ~~Form Validation Methods~~
 * ⌨️ (2:48:59) 28 - ~~Initial Values for Forms~~
-* ⌨️ (2:51:42) 29 - Dynamic URL Routing
+* ⌨️ (2:51:42) 29 - ~~Dynamic URL Routing~~
 * ⌨️ (2:54:26) 30 - Handle DoesNotExist
 * ⌨️ (2:56:24) 31 - Delete and Confirm
 * ⌨️ (2:58:24) 32 - View of a List of Database Objects
