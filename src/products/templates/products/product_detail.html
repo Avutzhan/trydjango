@@ -1,12 +1,11 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    <h1>In App template {{ object.title }}</h1>
-    <p>
-        {% if object.description %}
-            {{ object.description }}
-        {% else %}
-            description coming soon
-        {% endif %}
-    </p>
+    <form action="." method='POST'>{% csrf_token %}
+        <h1>Do you want to delete the product {{ object.title }}</h1>
+        <p>
+            <input type="submit" value="yes" />
+            <a href="../">Cancel</a>
+        </p>
+    </form>
 {% endblock %}

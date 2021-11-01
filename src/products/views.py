@@ -1,6 +1,6 @@
 from django.http import Http404
 
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, redirect
 
 from .forms import ProductForm, RawProductForm
 
@@ -22,13 +22,10 @@ def product_create_view(request):
 
 
 def product_detail_view(request, my_id):
-    # obj = get_object_or_404(Product, id=my_id)
-    obj = Product.objects.get(id=my_id)
-    try:
-        obj = Product.objects.get(id=my_id)
-    except Product.DoesNotExist:
-        raise Http404
-
+    obj = get_object_or_404(Product, id=my_id)
+    if request.method == 'POST':
+        obj.delete()
+        return redirect('../../')
     context = {
         'object': obj
     }
