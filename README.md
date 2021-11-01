@@ -43,7 +43,7 @@ deactivate
 * ⌨️ (2:48:59) 28 - ~~Initial Values for Forms~~
 * ⌨️ (2:51:42) 29 - ~~Dynamic URL Routing~~
 * ⌨️ (2:54:26) 30 - ~~Handle DoesNotExist~~
-* ⌨️ (2:56:24) 31 - Delete and Confirm
+* ⌨️ (2:56:24) 31 - ~~Delete and Confirm~~
 * ⌨️ (2:58:24) 32 - View of a List of Database Objects
 * ⌨️ (3:00:00) 33 - Dynamic Linking of URLs
 * ⌨️ (3:01:17) 34 - Django URLs Reverse
