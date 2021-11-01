@@ -45,7 +45,7 @@ deactivate
 * ⌨️ (2:54:26) 30 - ~~Handle DoesNotExist~~
 * ⌨️ (2:56:24) 31 - ~~Delete and Confirm~~
 * ⌨️ (2:58:24) 32 - ~~View of a List of Database Objects~~
-* ⌨️ (3:00:00) 33 - Dynamic Linking of URLs
+* ⌨️ (3:00:00) 33 - ~~Dynamic Linking of URLs~~
 * ⌨️ (3:01:17) 34 - Django URLs Reverse
 * ⌨️ (3:03:10) 35 - In App URLs and Namespacing
 * ⌨️ (3:07:35) 36 - Class Based Views - ListView

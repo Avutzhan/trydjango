@@ -9,3 +9,11 @@ def product_list_view(request):
         "object_list": queryset
     }
     return render(request, "products/product_list.html", context)
+
+
+def dynamic_lookup_view(request, my_id):
+    obj = Product.objects.get(id=my_id)
+    context = {
+        "obj": obj
+    }
+    return render(request, "products/product_detail.html", context)

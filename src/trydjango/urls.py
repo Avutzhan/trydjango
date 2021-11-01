@@ -17,11 +17,14 @@ from django.contrib import admin
 from django.urls import path
 
 from pages.views import home_view, contact_view
-from products.views import product_list_view
+from products.views import product_list_view, dynamic_lookup_view
 
 urlpatterns = [
     path('', home_view, name='home'),
     path('contacts', contact_view, name='home'),
     path('admin/', admin.site.urls),
-    path('products/', product_list_view, name="product"),
+
+    path('products/', product_list_view, name="product-list"),
+    path('products/<int:my_id>/', dynamic_lookup_view, name="product-detail"),
+    # path('products/<int:id>/delete', product_delete_view, name="product-delete"),
 ]
