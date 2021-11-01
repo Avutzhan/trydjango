@@ -51,7 +51,7 @@ deactivate
 * ⌨️ (3:07:35) 36 - ~~Class Based Views - ListView~~
 * ⌨️ (3:10:45) 37 - ~~Class Based Views - DetailView~~
 * ⌨️ (3:15:38) 38 - ~~Class Based Views - CreateView and UpdateView~~
-* ⌨️ (3:21:23) 39 - Class Based Views - DeleteView
+* ⌨️ (3:21:23) 39 - ~~Class Based Views - DeleteView~~
 * ⌨️ (3:24:02) 40 - Function Based View to Class Based View
 * ⌨️ (3:27:15) 41 - Raw Detail Class Based View
 * ⌨️ (3:30:31) 42 - Raw List Class Based View
